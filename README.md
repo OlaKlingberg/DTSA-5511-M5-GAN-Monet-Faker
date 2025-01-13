@@ -16,4 +16,4 @@ The project employs **Generative Adversarial Networks (GANs)** to transform land
 The dataset can be accessed from the page for the Kaggle competition [I'm Something of a Painter Myself](https://www.kaggle.com/competitions/gan-getting-started/data)
 
 ### Results
-The trained model generates images that 
+The trained model generates images which, when submitted to the Kaggle competition, received a decent MiFID score of 55.3. A manual inspection of a sample of the images reveals them to have a color scheme that is reminiscent of Monet's palette, but their graininess is a poor imitation of Monet's visible brushstrokes. The generated Monet-style images are unlikely to fool any human observer.
